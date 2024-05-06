@@ -6041,3 +6041,7 @@ node_modules/yallist/package.json
 node_modules/yallist/README.md
 node_modules/yallist/yallist.js
 node_modules/@parcel/core/test/fixtures/glob-like/[entry].js
+node_modules/.vite/deps/three_examples_jsm_controls_OrbitControls.js
+node_modules/.vite/deps/three_examples_jsm_controls_OrbitControls.js.map
+node_modules/.vite/deps/three_examples_jsm_loaders_GLTFLoader__js.js
+node_modules/.vite/deps/three_examples_jsm_loaders_GLTFLoader__js.js.map

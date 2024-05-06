@@ -27,7 +27,7 @@ camera.add( light );
 scene.add(camera);
 
 //Define the image here!!
-const texture = new THREE.TextureLoader().load( "./stretchedmap.jpg" );
+const texture = new THREE.TextureLoader().load( "./pattern.jpg" );
 
 const geometry = new THREE.SphereGeometry( 2,64,32);
 const material = new THREE.MeshPhongMaterial( {map:texture} );
